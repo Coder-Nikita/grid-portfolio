@@ -31,9 +31,6 @@ A modern grid-based portfolio layout built using pure HTML and CSS. It features 
 
 ## 📸 Preview
 
-
-
-```markdown
 ![Grid Preview](images/grid-preview.png)
 
 ![Mobile Preview](images/mobile-preview.png)
